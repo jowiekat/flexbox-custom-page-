@@ -1,6 +1,6 @@
 /* Global styles */
 body {
-  color: #2d281e;
+  color: #433c2c;
   font-family: "Open Sans", sans-serif;
   line-height: 1.5;
 }
@@ -70,7 +70,7 @@ article .content-wrapper {
 .profile-description {
   width: 80%;
   padding-bottom: 20px;
-  border-bottom: 5px solid #e0c994;
+  border-bottom: 5px solid #e9d9b4;
 }
 
 /* Footer styles */
